@@ -1,0 +1,1 @@
+Test repository for Storn5's EPAM .NET workshop
